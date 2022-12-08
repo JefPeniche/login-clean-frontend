@@ -1,0 +1,11 @@
+.img-1{
+    background-image: url('../../public/img/Productos1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.img-2{
+    background-image: url('../../public/img/Productos2.jpg');
+    background-size: cover;
+    background-position: center;
+}
